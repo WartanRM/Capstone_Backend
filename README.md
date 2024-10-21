@@ -23,4 +23,4 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 ## Contact
 
-For any questions, please contact [your-email@example.com](mailto:gokulwartan@gmail.com).
+For any questions, please contact [your-gokulwartan@gmail.com](mailto:gokulwartan@gmail.com).
