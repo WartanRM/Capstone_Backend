@@ -12,7 +12,9 @@ This repository contains the backend source code for the Investment Portfolio pr
 - **User Authentication**: Secure login and registration system for user accounts.
 - **Data Storage**: Persistent storage for user data and investment records.
 
- 
+## Explore the Live Application
+[Investment Portfolio App](https://investment-portfolio-a4e89.web.app/)
+
 ## Frontend
 
 The frontend code for this project, which interacts with this backend, can be found in the following repository: [Capstone Frontend](https://github.com/WartanRM/Capstone-Frontend).
